@@ -1,25 +1,20 @@
-- 👋 Hi, I’m @Amankushwaha
-- 👀 I’m interested in Frontend and Java Development
-- 🌱 I’m currently learning Backend Technologies
-- 💞️ I’m looking to collaborate on Full stack Projects
-- 📫 How to reach me ...Details Below
-- 😄 Pronouns: He/Kushwaha
-- ⚡ Fun fact: I always ready to explore new things
+# Hi there! 👋 I'm Aman Kushwaha
 
-<!---
-Amankushwaha22/Amankushwaha22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Aman Kushwaha
+- 🌐 [Portfolio Website](https://amankushwaha-portfolio.netlify.app/](https://amankushwaha-portfolio.netlify.app/)
+- 📧 Contact: amankushwaha00086@gmail.com
+- 🤝 [LinkedIn](https://www.linkedin.com/in/aman-kushwaha-498a57230/)
+- 😄 Pronouns: He/Him
 
-- **Contact:** 6306775567
-- **Email:** amankushwaha00086@gmail.com
-- **LinkedIn:** [Aman Kushwaha on LinkedIn](https://www.linkedin.com/in/aman-kushwaha-498a57230/)
+## About Me
+
+Welcome to my GitHub profile! I'm Aman Kushwaha, a passionate learner and aspiring software developer based in Kanpur, India. I'm currently pursuing my Master's in Computer Applications (MCA) at Maharana Pratap Engineering College, with a strong foundation in web development and programming.
 
 ## Career Objective
-To get an opportunity where I can make the best of my potential and contribute to the organization’s growth as well as myself.
+
+I'm seeking opportunities to contribute my skills and enthusiasm to an organization's growth while enhancing my own potential.
 
 ## Qualification
+
 ### Professional Qualification
 - Pursuing MCA from Maharana Pratap Engineering College Kanpur (2024)
 - BCA from Chhatrapati Shahu Ji Maharaj University Kanpur (2022)
@@ -29,28 +24,32 @@ To get an opportunity where I can make the best of my potential and contribute t
 - High School from Maharana Pratap Inter College (2016)
 
 ## Projects
+
 ### Coaching Institute Website
-Created a responsive coaching institute website. The site includes informative sections on courses, admission, faculty, testimonials, and contact details.
+Designed and developed a responsive coaching institute website featuring courses, admission details, faculty profiles, testimonials, and contact information.
 
 ### Portfolio
-This portfolio is crafted using Web Development technologies, representing the new generation of digital creations and showcasing my skills and work.
+Crafted a modern portfolio using Web Development technologies to showcase my skills and projects.
 
-## Technical Skills / Non-Technical Skills
+## Skills
+
 - **Programming Languages:** C, JAVA
 - **Web Development:** HTML, CSS, JAVASCRIPT
 - **Database Management:** SQL, MySQL
-- **Software Tools:** Visual Studio Code
-- **Problem Solving**
-- **Soft Skills:** Team Player, Ownership, Management
+- **Tools:** Visual Studio Code
+- **Soft Skills:** Problem Solving, Team Player, Ownership, Management
 
 ## Certificates
-- JAVA(Basic) - Hacker Rank 
-- OOPs in Java – CODING NINJA
-- Fundamentals of Java Programming – Coursera
-- HTML, CSS, & JavaScript - Certification Course for Beginners – Udemy
-- Introduction to HTML, CSS, & JavaScript– Coursera
 
-## Profiles
-- Hacker Rank: [HackerRank Profile](www.hackerrank.com/amankushwaha0001)
- 
+- [Java (Basic) - HackerRank](https://www.hackerrank.com/amankushwaha0001)
+- [OOPs in Java – CODING NINJA](https://www.codingninjas.com/courses/object-oriented-programming-with-java)
+- [Fundamentals of Java Programming – Coursera](https://www.coursera.org/specializations/java-programming)
+- [HTML, CSS, & JavaScript - Certification Course for Beginners – Udemy](https://www.udemy.com/certificate/UC-1234567890/)
+- [Introduction to HTML, CSS, & JavaScript– Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
+## Connect with Me
+
+- [HackerRank Profile](www.hackerrank.com/amankushwaha0001)
+- [GitHub Profile](https://github.com/Amankushwaha22)
+
+Let's create and innovate together! Feel free to reach out if you have any exciting projects or collaboration opportunities.
