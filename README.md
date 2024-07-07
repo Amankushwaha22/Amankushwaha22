@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Aman Kushwaha
 
-Welcome to my GitHub world! I'm a passionate learner and aspiring software developer from Kanpur, India. Currently pursuing MCA at Maharana Pratap Engineering College.
-
-🚀 **Let's build something amazing together!**
+Welcome to my GitHub world! I'm a passionate software developer from Kanpur, India, who has successfully completed my MCA at Maharana Pratap Engineering College. I thrive on turning ideas into code and solving real-world problems with innovative solutions. 🚀🎓
 
 ## 🌐 Portfolio
 Explore my [Portfolio Website](https://amankushwaha-portfolio.netlify.app/) for a glimpse of my projects and achievements.
@@ -12,7 +10,7 @@ Explore my [Portfolio Website](https://amankushwaha-portfolio.netlify.app/) for 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/aman-kushwaha-498a57230/)
 
 ## 😄 About Me
-I thrive on turning ideas into code and solving real-world problems. My goal is to contribute to an organization's growth while continually evolving as a developer.
+With a strong background in software development, I'm driven by a desire to contribute to an organization's growth while continually evolving as a developer. From predictive models to responsive web applications, I am dedicated to creating impactful software solutions.
 
 ## 🛠️ Skills
 
@@ -25,20 +23,24 @@ I thrive on turning ideas into code and solving real-world problems. My goal is 
 ## 🌟 Projects
 
 ### Heart Disease Prediction ❤️
-Developed a predictive model using Python to analyze medical data and predict heart disease risk with a 91% accuracy rate. The project aids in early detection and intervention.  
-[Repository Link](https://github.com/Amankushwaha22/heart-disease-prediction)
+Developed a predictive model using Python to analyze medical data and predict heart disease risk with a 91% accuracy rate, aiding in early detection and intervention.
+- **Skills Used:** Python, Django, HTML, CSS
+- **Repository:** [Heart Disease Prediction](https://github.com/Amankushwaha22/heart-disease-prediction)
 
 ### Coaching Institute Website 🏫
-Designed a responsive website for a coaching institute, featuring courses, faculty profiles, and testimonials.  
-[Repository Link](https://github.com/Amankushwaha22/coaching-institute-website)
+Designed and developed a responsive website for a coaching institute, featuring course information, faculty profiles, and testimonials.
+- **Skills Used:** HTML, CSS, JavaScript, MySQL, PHP
+- **Repository:** [Coaching Institute Website](https://github.com/Amankushwaha22/coaching-institute-website)
 
 ### Portfolio 💼
-Crafted a modern portfolio using the latest web development technologies. Check it out on my [Portfolio Website](https://amankushwaha-portfolio.netlify.app/).
+Crafted a modern portfolio showcasing my skills and projects using the latest web development technologies.
+- **Skills Used:** HTML, CSS, JavaScript
+- **Website:** [Portfolio Website](https://amankushwaha-portfolio.netlify.app/)
 
 ## 🎓 Education
 
-- **MCA**, Maharana Pratap Engineering College Kanpur (2024)
-- **BCA**, Chhatrapati Shahu Ji Maharaj University Kanpur (2022)
+- **MCA**, Maharana Pratap Engineering College, Kanpur (2024)
+- **BCA**, Chhatrapati Shahu Ji Maharaj University, Kanpur (2022)
 
 ## 🏆 Certificates
 
@@ -60,3 +62,4 @@ Crafted a modern portfolio using the latest web development technologies. Check 
 - [GitHub Profile](https://github.com/Amankushwaha22)
 
 Let's collaborate and create something extraordinary! Feel free to reach out for exciting projects or opportunities.
+
