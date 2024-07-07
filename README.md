@@ -16,35 +16,47 @@ I thrive on turning ideas into code and solving real-world problems. My goal is 
 
 ## 🛠️ Skills
 
-- **Languages:** C, JAVA, PYTHON
-- **Web Development:** HTML, CSS, JAVASCRIPT
+- **Languages:** C, Java, Python
+- **Web Development:** HTML, CSS, JavaScript, Django
 - **Databases:** SQL, MySQL
-- **Tools:** Visual Studio Code
+- **Tools:** Visual Studio Code, Git, Microsoft Excel
+- **Soft Skills:** Problem Solving, Team Collaboration, Communication, Analytical Skills
 
 ## 🌟 Projects
 
+### Heart Disease Prediction ❤️
+Developed a predictive model using Python to analyze medical data and predict heart disease risk with a 91% accuracy rate. The project aids in early detection and intervention.  
+[Repository Link](https://github.com/Amankushwaha22/heart-disease-prediction)
+
 ### Coaching Institute Website 🏫
-Designed a responsive website for a coaching institute, featuring courses, faculty profiles, and testimonials.
+Designed a responsive website for a coaching institute, featuring courses, faculty profiles, and testimonials.  
+[Repository Link](https://github.com/Amankushwaha22/coaching-institute-website)
 
 ### Portfolio 💼
 Crafted a modern portfolio using the latest web development technologies. Check it out on my [Portfolio Website](https://amankushwaha-portfolio.netlify.app/).
 
 ## 🎓 Education
 
-- Pursuing MCA from Maharana Pratap Engineering College Kanpur (2024)
-- BCA from Chhatrapati Shahu Ji Maharaj University Kanpur (2022)
+- **MCA**, Maharana Pratap Engineering College Kanpur (2024)
+- **BCA**, Chhatrapati Shahu Ji Maharaj University Kanpur (2022)
 
 ## 🏆 Certificates
 
 - [Java (Basic) - HackerRank](https://www.hackerrank.com/amankushwaha0001)
-- [OOPs in Java – CODING NINJA](https://www.codingninjas.com/courses/object-oriented-programming-with-java)
+- [OOPs in Java – Coding Ninja](https://www.codingninjas.com/courses/object-oriented-programming-with-java)
 - [Fundamentals of Java Programming – Coursera](https://www.coursera.org/specializations/java-programming)
 - [HTML, CSS, & JavaScript - Certification Course for Beginners – Udemy](https://www.udemy.com/certificate/UC-1234567890/)
-- [Introduction to HTML, CSS, & JavaScript– Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+- [Introduction to HTML, CSS, & JavaScript – Coursera](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+
+## 🧩 Contribution to Open Source
+- Contributed to [Open Source Project Name](https://github.com/OpenSourceProject/Repo) by [fixing bugs/adding features].
+
+## 📈 GitHub Stats
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amankushwaha22&show_icons=true&theme=radical)
 
 ## 🤝 Connect with Me
 
-- [HackerRank Profile](www.hackerrank.com/amankushwaha0001)
+- [HackerRank Profile](https://www.hackerrank.com/amankushwaha0001)
 - [GitHub Profile](https://github.com/Amankushwaha22)
 
 Let's collaborate and create something extraordinary! Feel free to reach out for exciting projects or opportunities.
